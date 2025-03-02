@@ -1,0 +1,19 @@
+{
+    "name": "aloz1/calal",
+    "license": "GPL-3.0-or-later",
+    "version": "v0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Aloz1\\Calal\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aloz1",
+            "email": "kno0001@gmail.com"
+        }
+    ],
+    "require": {
+        "johngrogg/ics-parser": "^3.4"
+    }
+}
